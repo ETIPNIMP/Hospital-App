@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SG Hospital</string>
+    <string name="submit">Submit</string>
+    <string name="sg_home">SG Home</string>
+    <string name="sg_gmail_com">SG@gmail.com</string>
+    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
